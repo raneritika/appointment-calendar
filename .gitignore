@@ -1,0 +1,15 @@
+# Node modules directory
+node_modules/
+
+# Production build output
+build/
+
+# Logs
+npm-debug.log
+
+# Environment variables file
+.env
+
+# macOS system files
+.DS_Store
+
