@@ -37,7 +37,11 @@ Open your web browser and go to:
 
 http://localhost
 
-## You should see the Dr. Harding Appointment Scheduler application.
+### You should see the Dr. Harding Appointment Scheduler application.
 
+## Screenshots:
+
+![Screenshot: Appointment Calendar Homepage](Screenshots/Appointment-calendar-homepage.png)
+![Screenshot: Appointment Calendar August](Screenshots/Appointment-calendar-august.png)
 
 
