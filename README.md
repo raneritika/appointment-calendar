@@ -15,6 +15,7 @@ Follow these steps to build and run the Docker container for this application:
 Clone this repository to your local machine:
 
 git clone https://github.com/raneritika/appointment-calendar.git
+
 cd appointment-calendar
 
 
