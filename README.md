@@ -37,7 +37,7 @@ Open your web browser and go to:
 
 http://localhost
 
-### You should see the Dr. Harding Appointment Scheduler application.
+## You should see the Dr. Harding Appointment Scheduler application.
 
 ## Screenshots:
 
