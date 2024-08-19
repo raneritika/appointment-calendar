@@ -25,7 +25,7 @@ const DatePickerComponent = ({ availability }) => {
         navigationLabel={({ date }) => date.toLocaleString('en-US', { month: 'long', year: 'numeric' })}
         prev2Label={null}  // Removes the `«` button for year
         next2Label={null}  // Removes the `»` button for year
-        minDate={new Date(2024, 7, 1)} // Restrict to start of August
+        minDate={new Date(2024, 7, 20)} // Restrict to start of August
         maxDate={new Date(2024, 8, 30)} // Restrict to end of September
       />
     </div>

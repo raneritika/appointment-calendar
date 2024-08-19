@@ -48,17 +48,9 @@ body {
 
 .available-day {
   background-color: #42ce42 !important;
-  border-radius: 50%;
+  border-radius: 50% !important;
   color: white !important;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 14px;
-  width: 30px;
-  height: 30px;
-  line-height: 30px;
-  margin: auto;
-  box-sizing: border-box;
+  align-items: center !important;
 }
 
 .available-day:hover {
